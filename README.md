@@ -1,1 +1,3 @@
-# Project
+# Ikdienas meklēšana ziņu portālos
+# Mana projekta uzdevums bija automatizēt ikdienas meklēšanu mani interesējošas tēmas ziņu portālos, lai pavadītu mazāk laika, meklējot katru tēmu.
+# Projekta izstrādes laikā tika izmantotas tādas Python bibliotēkas kā selenium un time. Selenium bibliotēka bija izmantota, lai pārvaldīt tīmekļa lapas (nospiest pogas, ievadīt un nolasīt datus). Bibliotēka time bija izmantota, lai tīmekļa pārlūkprogramma varēja ielādēties un izpildīt komandas.
